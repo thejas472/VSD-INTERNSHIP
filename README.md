@@ -1,6 +1,6 @@
-# VSD-INTERNSHIP
+# VSDSquadron-Mini-Research- internship
 
-## The Risc V Development Board
+## VSDSQUADRON Mini Board
 
 ![Board](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/0e89fdbb-80f3-4141-8598-3191d95e6292)
 

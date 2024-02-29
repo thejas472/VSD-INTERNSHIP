@@ -1,6 +1,6 @@
 # VSDSquadron-Mini-Research- internship:
 
-"Exploring the depths of a 4-week internship, this folder encapsulates my transformative journey through various projects, challenges, and growth opportunities. Join me as I navigate through four weeks of immersive learning, innovation, and personal development."
+"Exploring the depths of a 4-week internship, this repository encapsulates my transformative journey through various projects, challenges, and growth opportunities. Join me as I navigate through four weeks of immersive learning, innovation, and personal development."
 
 ## VSDSQUADRON Mini Board
 

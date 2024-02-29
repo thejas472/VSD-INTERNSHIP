@@ -2,11 +2,11 @@
 
 "Exploring the depths of a 4-week internship, this repository encapsulates my transformative journey through various projects, challenges, and growth opportunities. Join me as I navigate through four weeks of immersive learning, innovation, and personal development."
 
-## VSDSQUADRON Mini Board
+## VSDSQUADRON Mini Board:
 
 ![Board](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/0e89fdbb-80f3-4141-8598-3191d95e6292)
 
-# Board Specs
+# Board Specs:
 
 <img width="397" alt="board specas" src="https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/bf6954c7-07dc-409d-a1d5-e10da17974c7">
 

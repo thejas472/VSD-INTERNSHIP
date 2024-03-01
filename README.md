@@ -1,10 +1,10 @@
-# VSDSquadron-Mini-Research- internship:
+# VSDSquadron-Mini-Research-internship
 
 "Exploring the depths of a 4-week internship, this repository encapsulates my transformative journey through various projects, challenges, and growth opportunities. Join me as I navigate through four weeks of immersive learning, innovation, and personal development."
 
-## VSDSQUADRON Mini Board:
+## VSDSQUADRON Mini Board
 
-![Board](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/0e89fdbb-80f3-4141-8598-3191d95e6292)
+![Board 2](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/d3a89b8a-03b4-43a1-850d-aff1c05c2880)
 
 # Board Specs:
 
@@ -41,7 +41,7 @@
 ## Task 2:
 ## PROJECT SELECTED: (Car Parking System)
 
-## Simple Concept of Car Parking System:
+## Simple Concept of Car Parking System
 
 ![Car](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/e65a805b-c217-434f-bead-57770a4bbe74)
 

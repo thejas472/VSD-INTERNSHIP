@@ -1,4 +1,4 @@
-# VSDSquadron-Mini-Research-internship
+![image](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/216fe34d-fcfd-4cc2-9796-542cee03d5c8)# VSDSquadron-Mini-Research-internship
 
 "Exploring the depths of a 4-week internship, this repository encapsulates my transformative journey through various projects, challenges, and growth opportunities. Join me as I navigate through four weeks of immersive learning, innovation, and personal development."
 
@@ -11,7 +11,6 @@
 <img width="397" alt="board specas" src="https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/bf6954c7-07dc-409d-a1d5-e10da17974c7">
 
 
-# The first online meet was held on 16th of Feb 2024-
 
 ## Task 1:
 
@@ -36,7 +35,6 @@
 ![gtkwave](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/c6590d68-8d06-467a-97c9-0c444e6c7ce9)
 
 
-# The second online meet was held on 20th of Feb 2024-
 
 ## Task 2:
 ## PROJECT SELECTED: (Car Parking System)
@@ -58,6 +56,20 @@ Parking System can be defined as the use of advanced technologies for the better
 ### Waveforms/Simulation Result:
 
 ![Simulation Result](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/f0714401-342d-4f56-8a77-a531e3d59379)
+
+# Task 3:
+### Sky 130
+
+![Sky 130](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/96aa4ef6-cc4a-4f89-9950-4bec5974b33d)
+
+### Functional Simulation 
+
+![Gtkwave Implementation multiplexer](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/4ff91b84-96fe-49ef-9ed1-d2493e361160)
+
+
+
+
+
 
 
 

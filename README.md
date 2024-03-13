@@ -69,6 +69,8 @@ Parking System can be defined as the use of advanced technologies for the better
 
 ![Gtkwave Implementation multiplexer](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/4ff91b84-96fe-49ef-9ed1-d2493e361160)
 
+## The fourth online meet was held on 29th of Feb 2024 @6PM
+
 ## Task 4:
 ###  synth -top file name
 

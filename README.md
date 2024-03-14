@@ -114,9 +114,9 @@ Parking System can be defined as the use of advanced technologies for the better
  ![gtk wave ](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/1c4b78ca-cbb6-45a3-b075-9c0c6c5e596b)
 
  # Acknowledgements-
- 1) https://www.vlsisystemdesign.com/vsdsquadron/
+ 1) https://www.vlsisystemdesign.com/vsdsquadron/ (VSD Squadron corp)
  2) https://github.com/ishan-desai64/iiitb_cps
- 3) https://youtu.be/tRZGeaHPoaw- Kevin Stratvert
+ 3) https://youtu.be/tRZGeaHPoaw- Github Tutorials (Kevin Stratvert) 
 
 
 

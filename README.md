@@ -103,7 +103,7 @@ Parking System can be defined as the use of advanced technologies for the better
 
  ![Netlist](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/24b1445b-600c-4358-9dca-47e03b9cbc5e)
 
-## 6) Check the whether the netlist will match the design:
+## 6) does netlist match design:
  
   iverilog ../iiitb_cps/verilog_model/primitives.v ../iiitb_cps/verilog_model/sky130_fd_sc_hd.v netlist.v iiitb_cps.v
  

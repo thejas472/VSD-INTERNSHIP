@@ -81,7 +81,7 @@ Parking System can be defined as the use of advanced technologies for the better
 ![ABC](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/0af236eb-2e78-4435-9813-fc472f356e41)
 
 ## Task 5:
-## 1) git clone https://github.com/ishan-desai64/iiitb_cps.git
+## 1) Git clone https://github.com/ishan-desai64/iiitb_cps.git
 
 ![git clone](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/eae092b5-0766-4778-b211-fac58c22c41f)
 
@@ -89,29 +89,30 @@ Parking System can be defined as the use of advanced technologies for the better
 
 ![Invoke](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/e26e9069-ae03-4abb-9aff-a35c48719f80)
 
-## 3)read verilog file 
+## 3) Read the library
 
-![Read verilog](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/aad1e211-efaf-4a96-bbcb-bd9dd0a5bddf)
+![reasddd](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/495673f0-9ba9-45a4-b458-bdfe7b666824)
 
-## 4)Stats
+## 4) Reading the verilog file
 
-![Stats](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/4b71fcef-5ef1-430f-ae5e-4a627c7ee11f)
+![Readddd](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/26923549-6552-463f-ba7e-4d33d0bb7104)
 
-## 5)Netlist 
+## 5) Synthesizing the project module:
 
- write_verilog netlist.v
+![synth](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/eb8d3832-ecb3-4b87-a25c-d80b5446425b)
 
- ![Netlist](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/24b1445b-600c-4358-9dca-47e03b9cbc5e)
+## 7) Generate the netlist:
 
-## 6) does netlist match design:
- 
-  iverilog ../iiitb_cps/verilog_model/primitives.v ../iiitb_cps/verilog_model/sky130_fd_sc_hd.v netlist.v iiitb_cps.v
- 
-  ./a.out
+![abccc](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/dd5b33c0-1934-455d-95dd-9b20416ae24c)
 
-  gtkwave iiitb_cps.vcd
+## 8) To write the netlist:
 
- ![gtk wave ](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/1c4b78ca-cbb6-45a3-b075-9c0c6c5e596b)
+![Netlist](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/f339ae5b-cd34-4511-a2e6-b55324f8d7c8)
+
+## 9) Gtkwave of the netlist: 
+
+![gtkwave](https://github.com/thejas472/VSD-INTERNSHIP/assets/160320685/5bdc9ca3-e924-44ac-9b41-91c5fc9fae7d)
+
 
  # Acknowledgements-
  1) https://www.vlsisystemdesign.com/vsdsquadron/ (VSD Squadron corp)
